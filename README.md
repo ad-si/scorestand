@@ -18,6 +18,11 @@ Name | Description | Price | Shops
 [Blend Micro](http://redbearlab.com/blendmicro/) | BLE + Arduino board | 24.84 € | http://redbearlab.com/buy
 
 
+## IR Sensors
+
+- [SparkFun Infrared Proximity Breakout - VCNL4000](https://www.sparkfun.com/products/10901) - 9.95$
+
+
 # Startup Incubators
 
 - http://hardware.co
