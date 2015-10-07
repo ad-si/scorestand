@@ -28,3 +28,4 @@ Name | Description | Price | Shops
 
 - http://hardware.co
 - http://startup.conrad.de
+- http://www.seeedstudio.com
